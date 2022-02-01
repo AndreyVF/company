@@ -76,12 +76,12 @@ Please provide a solution with the above features with the following considerati
 * Please provide testing for your solution
 * Providing an API Contract e.g. OPENAPI spec. is a big plus
 
-##How to build the project
+## How to build the project
 In command line execute: `./gradlew clean build`. 
 The file **demo.jar** will be created in **../build/libs** folder
 
-##How to run the project
+## How to run the project
 Execute `./start.sh`
 
-##Swagger
+## Swagger
 http://localhost:8080/swagger-ui/index.html
